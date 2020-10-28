@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Log Extras</string>
+    <string name="notification_title">Log Extra</string>
+    <string name="notification_text">Last update</string>
+</resources>
